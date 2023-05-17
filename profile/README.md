@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="logo.png" />
+  <img src="profile/logo.png" />
 </p>
